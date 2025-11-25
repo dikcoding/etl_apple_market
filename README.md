@@ -1,6 +1,7 @@
 # ETL Apple Market
 
 Welcome to the **ETL Apple Market Project**!
+
 ![Architecture Diagram](images/etl.png)
 
 # Pipeline Overview
@@ -45,4 +46,4 @@ The Apple Market ETL Pipeline performs the following steps:
 
 # Dashboard
 
-![Stock Dashboard](images/etl.png)
+![Stock Dashboard](images/stock_dashboard.jpg)
